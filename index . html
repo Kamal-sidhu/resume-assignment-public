@@ -3,12 +3,12 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Your Name - Resume</title>
+  <title>kamaldeep kaur - Resume</title>
 </head>
 <body>
 
   <header>
-    <h1>Your Name</h1>
+    <h1>kamaldeep kaur </h1>
     <img src="images/profile.jpg" alt="Professional photo of Your Name" width="150" height="150">
     <nav>
       <ul>
@@ -56,10 +56,12 @@
       <li>LinkedIn: <a href="https://linkedin.com/in/yourprofile">Your LinkedIn</a></li>
       <li>GitHub: <a href="https://github.com/yourusername">yourusername</a></li>
     </ul>
-    <p>&copy; 2025 Your Name</p>
+    <p>&copy; 2025 kamaldeep kaur</p>
   </footer>
 
 </body>
 </html>
+
+
 
 
