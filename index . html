@@ -104,11 +104,16 @@
 </section>
 
 
-  <h2>Projects</h2>
+<section id="projects">
+  <h3>Projects</h3>
   <ul>
-    <li><strong>My Portfolio:</strong> A showcase of my projects and skills. Used React, CSS Modules, and deployed on Vercel. <a href="#">Visit here</a></li>
-    <li><strong>Todo App:</strong> A MERN stack application to manage daily tasks with user authentication. <a href="#">Visit here</a></li>
-  </ul>
+    <li>
+      <strong>Portfolio Website</strong> – 
+      <a href="https://kamal-portfolio.netlify.app" target="_blank">Live Demo</a> |
+      <a href="https://github.com/Kamal-sidhu/portfolio-site" target="_blank">GitHub</a><br>
+      A personal website to showcase my resume, skills, and contact information. Built using semantic HTML.
+    </li>
+
 
   <p>Thank you for considering my application. Looking forward to your feedback!</p>
 
