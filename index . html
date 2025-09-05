@@ -121,6 +121,15 @@
       A simple, interactive to-do list web app that uses local storage to save tasks. Developed in plain JavaScript.
     </li>
 
+      <li>
+      <strong>Weather App</strong> –
+      <a href="https://kamal-weatherapp.vercel.app" target="_blank">Live Demo</a> |
+      <a href="https://github.com/Kamal-sidhu/weather-app" target="_blank">GitHub</a><br>
+      A responsive weather forecast app using OpenWeatherMap API. Fetches real-time weather by city.
+    </li>
+  </ul>
+</section>
+
 
   <p>Thank you for considering my application. Looking forward to your feedback!</p>
 
