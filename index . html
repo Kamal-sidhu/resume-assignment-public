@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Your Name - Resume</title>
+</head>
+<body>
+
+  <header>
+    <h1>Your Name</h1>
+    <img src="images/profile.jpg" alt="Professional photo of Your Name" width="150" height="150">
+    <nav>
+      <ul>
+        <li><a href="#about">About</a></li>
+        <li><a href="#skills">Skills</a></li>
+        <li><a href="#experience">Experience</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+
+    <section id="about">
+      <h2>About Me</h2>
+      <p>Write a short paragraph about yourself here.</p>
+    </section>
+
+    <section id="skills">
+      <h2>Skills</h2>
+      <ul>
+        <li>HTML</li>
+        <li>Git & GitHub</li>
+        <li>Accessibility</li>
+      </ul>
+      <figure>
+        <img src="images/html5-icon.svg" alt="HTML5 logo badge" width="80" height="80">
+        <figcaption>HTML5 Certified</figcaption>
+      </figure>
+    </section>
+
+    <section id="experience">
+      <h2>Experience & Education</h2>
+      <article>
+        <h3>Student, Front-End Development</h3>
+        <p>College Name, 2025 - Present</p>
+      </article>
+    </section>
+
+  </main>
+
+  <footer>
+    <h2>Contact</h2>
+    <ul>
+      <li>Email: <a href="mailto:your.email@example.com">your.email@example.com</a></li>
+      <li>LinkedIn: <a href="https://linkedin.com/in/yourprofile">Your LinkedIn</a></li>
+      <li>GitHub: <a href="https://github.com/yourusername">yourusername</a></li>
+    </ul>
+    <p>&copy; 2025 Your Name</p>
+  </footer>
+
+</body>
+</html>
+
+
