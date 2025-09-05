@@ -114,6 +114,13 @@
       A personal website to showcase my resume, skills, and contact information. Built using semantic HTML.
     </li>
 
+     <li>
+      <strong>To-Do App</strong> –
+      <a href="https://kamal-todo-app.netlify.app" target="_blank">Live Demo</a> |
+      <a href="https://github.com/Kamal-sidhu/todo-app" target="_blank">GitHub</a><br>
+      A simple, interactive to-do list web app that uses local storage to save tasks. Developed in plain JavaScript.
+    </li>
+
 
   <p>Thank you for considering my application. Looking forward to your feedback!</p>
 
