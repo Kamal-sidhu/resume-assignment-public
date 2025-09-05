@@ -131,7 +131,11 @@
 </section>
 
 
-  <p>Thank you for considering my application. Looking forward to your feedback!</p>
+ <section id="thankyou" style="margin-top: 40px; text-align: center;">
+  <h2>Thank You!</h2>
+  <p>Thank you for taking the time to review my resume and projects. I appreciate your consideration and look forward to connecting with you.</p>
+</section>
+
 
 </body>
 </html>
