@@ -60,16 +60,18 @@
   <h2>About Me</h2>
   <p>Hello! I’m Kamaldeep Kaur, a dedicated front-end developer passionate about creating clean, responsive, and user-friendly websites. I enjoy learning new technologies and continuously improving my skills to deliver the best user experience possible.</p>
 
-  <h2>Skills</h2>
+  <section id="skills">
+  <h3>Skills</h3>
   <ul>
-    <li>JavaScript</li>
-    <li>Python</li>
-    <li>Node.js</li>
-    <li>React.js</li>
-    <li>RESTful APIs</li>
-    <li>Database Management (SQL & NoSQL)</li>
-    <li>Version Control (Git & GitHub)</li>
+    <li>HTML5 & Semantic Markup</li>
+    <li>CSS3 & Responsive Design</li>
+    <li>JavaScript & DOM Manipulation</li>
+    <li>Git & GitHub Version Control</li>
+    <li>Accessibility Best Practices</li>
+    <li>Cross-Browser Compatibility</li>
   </ul>
+</section>
+
 
   <h2>Experience</h2>
   <ul>
