@@ -73,23 +73,22 @@
 </section>
 
 
-  <h2>Experience</h2>
-  <ul>
-    <li><strong>Software Developer</strong> - ABC Tech Solutions, 2022-Present
-      <ul>
-        <li>Developed and maintained over 5 web applications, achieving 99.9% uptime.</li>
-        <li>Collaborated in a team of 10 developers, attending daily stand-up meetings.</li>
-        <li>Implemented security best practices to prevent vulnerabilities.</li>
-      </ul>
-    </li>
-    <li><strong>Intern, Web Development</strong> - XYZ Corp, Summer 2021
-      <ul>
-        <li>Assisted in developing features for the company's main product.</li>
-        <li>Gained hands-on experience with React, Node.js, and database management.</li>
-        <li>Conducted UI/UX testing, leading to a 15% increase in user engagement.</li>
-      </ul>
-    </li>
-  </ul>
+<section id="experience">
+  <h3>Experience</h3>
+
+  <article>
+    <h4>Junior Web Developer (Intern)</h4>
+    <p>CodeWave Technologies, Winnipeg, MB — May 2025 – August 2025</p>
+    <p>Worked collaboratively with the development team to design and implement responsive UI components using HTML5, CSS3, and JavaScript. Participated in daily standups and contributed to GitHub repositories following agile workflows.</p>
+  </article>
+
+  <article>
+    <h4>Freelance Front-End Developer</h4>
+    <p>Remote — January 2024 – April 2025</p>
+    <p>Designed and built responsive websites for small businesses using semantic HTML and accessible layouts. Ensured cross-browser compatibility and implemented version control with Git and GitHub.</p>
+  </article>
+</section>
+
 
   <h2>Education</h2>
   <ul>
