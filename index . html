@@ -89,12 +89,20 @@
   </article>
 </section>
 
+<section id="education">
+  <h3>Education</h3>
 
-  <h2>Education</h2>
-  <ul>
-    <li><strong>Master of Computer Science</strong> - Stanford University, 2020-2022</li>
-    <li><strong>Bachelor of Technology in Computer Science</strong> - MIT, 2016-2020</li>
-  </ul>
+  <article>
+    <h4>Diploma in Application Development & Delivery</h4>
+    <p>Red River College Polytechnic, Winnipeg, MB — 2025 – Present</p>
+  </article>
+
+  <article>
+    <h4>Bachelor of Computer Applications (B.C.A)</h4>
+    <p>Guru Gobind Singh College, Gidderbaha, India — 2017 – 2020</p>
+  </article>
+</section>
+
 
   <h2>Projects</h2>
   <ul>
