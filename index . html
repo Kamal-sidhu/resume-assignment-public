@@ -1,67 +1,107 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>kamaldeep kaur - Resume</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 700px;
+      margin: 20px auto;
+      padding: 10px;
+      line-height: 1.5;
+      color: #222;
+    }
+    img.profile-pic {
+      width: 150px;
+      height: 150px;
+      object-fit: cover;
+      border-radius: 5px;
+      margin-bottom: 15px;
+    }
+    h1 {
+      margin-bottom: 0;
+    }
+    h2 {
+      margin-top: 30px;
+      border-bottom: 2px solid #ccc;
+      padding-bottom: 5px;
+    }
+    ul {
+      list-style-type: disc;
+      margin-left: 20px;
+    }
+    ul ul {
+      list-style-type: circle;
+      margin-left: 20px;
+    }
+    a {
+      color: blue;
+      text-decoration: underline;
+    }
+  </style>
 </head>
 <body>
+<img src="images/profile.jpg" alt="kamaldeep kaur" width="150" height="150">
 
-  <header>
-    <h1>kamaldeep kaur </h1>
-    <img src="images/profile.jpg" alt="Professional photo of Your Name" width="150" height="150">
-    <nav>
+  <h1>kamaldeep kaur</h1>
+  <p>Full Stack Developer</p>
+
+  <h2>Contact Information</h2>
+  <ul>
+    <li><strong>Phone:</strong> (123) 456-7890</li>
+    <li><strong>Address:</strong> 123 Main St, Anytown, AT 12345</li>
+    <li><strong>Email:</strong> kamaldeep@example.com</li>
+    <li><strong>GitHub:</strong> <a href="https://github.com/Kamal-sidhu">github.com/Kamal-sidhu</a></li>
+    <li><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/kamaldeep">linkedin.com/in/kamaldeep</a></li>
+  </ul>
+
+  <h2>About Me</h2>
+  <p>I'm Kamaldeep, a passionate software developer with expertise in full-stack development and a keen interest in AI. With hands-on experience in building scalable web applications, I thrive in a dynamic and fast-paced environment.</p>
+
+  <h2>Skills</h2>
+  <ul>
+    <li>JavaScript</li>
+    <li>Python</li>
+    <li>Node.js</li>
+    <li>React.js</li>
+    <li>RESTful APIs</li>
+    <li>Database Management (SQL & NoSQL)</li>
+    <li>Version Control (Git & GitHub)</li>
+  </ul>
+
+  <h2>Experience</h2>
+  <ul>
+    <li><strong>Software Developer</strong> - ABC Tech Solutions, 2022-Present
       <ul>
-        <li><a href="#about">About</a></li>
-        <li><a href="#skills">Skills</a></li>
-        <li><a href="#experience">Experience</a></li>
+        <li>Developed and maintained over 5 web applications, achieving 99.9% uptime.</li>
+        <li>Collaborated in a team of 10 developers, attending daily stand-up meetings.</li>
+        <li>Implemented security best practices to prevent vulnerabilities.</li>
       </ul>
-    </nav>
-  </header>
-
-  <main>
-
-    <section id="about">
-      <h2>About Me</h2>
-      <p>Write a short paragraph about yourself here.</p>
-    </section>
-
-    <section id="skills">
-      <h2>Skills</h2>
+    </li>
+    <li><strong>Intern, Web Development</strong> - XYZ Corp, Summer 2021
       <ul>
-        <li>HTML</li>
-        <li>Git & GitHub</li>
-        <li>Accessibility</li>
+        <li>Assisted in developing features for the company's main product.</li>
+        <li>Gained hands-on experience with React, Node.js, and database management.</li>
+        <li>Conducted UI/UX testing, leading to a 15% increase in user engagement.</li>
       </ul>
-      <figure>
-        <img src="images/html5-icon.svg" alt="HTML5 logo badge" width="80" height="80">
-        <figcaption>HTML5 Certified</figcaption>
-      </figure>
-    </section>
+    </li>
+  </ul>
 
-    <section id="experience">
-      <h2>Experience & Education</h2>
-      <article>
-        <h3>Student, Front-End Development</h3>
-        <p>College Name, 2025 - Present</p>
-      </article>
-    </section>
+  <h2>Education</h2>
+  <ul>
+    <li><strong>Master of Computer Science</strong> - Stanford University, 2020-2022</li>
+    <li><strong>Bachelor of Technology in Computer Science</strong> - MIT, 2016-2020</li>
+  </ul>
 
-  </main>
+  <h2>Projects</h2>
+  <ul>
+    <li><strong>My Portfolio:</strong> A showcase of my projects and skills. Used React, CSS Modules, and deployed on Vercel. <a href="#">Visit here</a></li>
+    <li><strong>Todo App:</strong> A MERN stack application to manage daily tasks with user authentication. <a href="#">Visit here</a></li>
+  </ul>
 
-  <footer>
-    <h2>Contact</h2>
-    <ul>
-      <li>Email: <a href="mailto:your.email@example.com">your.email@example.com</a></li>
-      <li>LinkedIn: <a href="https://linkedin.com/in/yourprofile">Your LinkedIn</a></li>
-      <li>GitHub: <a href="https://github.com/yourusername">yourusername</a></li>
-    </ul>
-    <p>&copy; 2025 kamaldeep kaur</p>
-  </footer>
+  <p>Thank you for considering my application. Looking forward to your feedback!</p>
 
 </body>
 </html>
-
-
-
-
