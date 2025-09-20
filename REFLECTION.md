@@ -31,3 +31,5 @@ Git remote issues and making layout fully responsive on mobile.
 
 ## What would I do differently now?
 Plan CSS grid layout more carefully and separate CSS into modules.
+
+
