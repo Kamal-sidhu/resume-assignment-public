@@ -18,16 +18,3 @@ If I did this again, I’d probably spend more time planning my file and folder 
 
 ---
 
-# REFLECTION
-
-## Can I explain what my code does?
-This resume website uses semantic HTML, CSS Grid and Flexbox for layout, Google Fonts for typography, and media queries for responsiveness.
-
-## What was my coding process?
-Started with cloning Assignment 1, added design guidelines, implemented CSS layout, then fonts, responsiveness, and accessibility.
-
-## What challenges did I have?
-Git remote issues and making layout fully responsive on mobile.
-
-## What would I do differently now?
-Plan CSS grid layout more carefully and separate CSS into modules.
