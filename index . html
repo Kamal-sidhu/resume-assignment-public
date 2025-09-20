@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>kamaldeep kaur - Resume</title>
+  <title>Kamaldeep Kaur - Resume</title>
   
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
@@ -14,9 +14,9 @@
 <body>
 
   <header>
-    <img src="images/profile.jpg" alt="kamaldeep kaur" class="profile-pic">
-    <h1>kamaldeep kaur</h1>
-    <p>Front end Developer</p>
+    <img src="images/profile.jpg" alt="Kamaldeep Kaur" class="profile-pic">
+    <h1>Kamaldeep Kaur</h1>
+    <p>Front End Developer</p>
   </header>
 
   <main>
@@ -24,8 +24,8 @@
       <h2>Contact Information</h2>
       <ul>
         <li><strong>Phone:</strong> (431) 374-786</li>
-        <li><strong>Address:</strong> 38 Leamen crescent, R2P 0N8</li>
-        <li><strong>Email:</strong> kamalsidhu2727@gamil.com</li>
+        <li><strong>Address:</strong> 38 Leamen Crescent, R2P 0N8</li>
+        <li><strong>Email:</strong> kamalsidhu2727@gmail.com</li>
         <li><strong>GitHub:</strong> <a href="https://github.com/Kamal-sidhu">github.com/Kamal-sidhu</a></li>
         <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/kamaldeep-kaur-aba8b5382/">linkedin.com/in/kamaldeep</a></li>
       </ul>
@@ -112,5 +112,6 @@
 
 </body>
 </html>
+
 
 
