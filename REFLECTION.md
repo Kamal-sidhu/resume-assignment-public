@@ -11,7 +11,7 @@ I started by brainstorming what sections a good resume should have, then sketche
 
 ## 3. What challenges did I have?
 
-At first, I struggled with getting my images to show up correctly. I kept using the full file path from my computer, which obviously didn’t work when I opened the page in a browser. I had to learn about relative paths and fix that. Another challenge was pushing my code to GitHub — I got stuck with authentication errors and permission denied messages, which was frustrating but I figured it out after reading some docs and resetting my remote. Also, deciding how to organize and format the content so it looked neat took more time than I expected.Started with cloning Assignment 1, added design guidelines, implemented CSS layout, then fonts, responsiveness, and accessibility.
+At first, I struggled with getting my images to show up correctly. I kept using the full file path from my computer, which obviously didn’t work when I opened the page in a browser. I had to learn about relative paths and fix that. Another challenge was pushing my code to GitHub — I got stuck with authentication errors and permission denied messages, which was frustrating but I figured it out after reading some docs and resetting my remote. Also, deciding how to organize and format the content so it looked neat took more time than I expected.Started with cloning Assignment 1, added design guidelines, implemented CSS layout, then fonts, responsiveness, and accessibility.Git remote issues and making layout fully responsive on mobile.
 
 
 ## 4. What would I do differently now?
@@ -21,8 +21,7 @@ If I did this again, I’d probably spend more time planning my file and folder 
 ---
 
 
-## What was my coding process?
-Started with cloning Assignment 1, added design guidelines, implemented CSS layout, then fonts, responsiveness, and accessibility.
+
 
 ## What challenges did I have?
 Git remote issues and making layout fully responsive on mobile.
