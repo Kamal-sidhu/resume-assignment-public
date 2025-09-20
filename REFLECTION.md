@@ -16,17 +16,14 @@ At first, I struggled with getting my images to show up correctly. I kept using 
 
 ## 4. What would I do differently now?
 
-If I did this again, I’d probably spend more time planning my file and folder structure upfront to keep things tidy from the start. I’d also add some CSS earlier to make the design more polished and user-friendly, maybe even try a CSS framework like Bootstrap to speed things up. I want to learn how to make the page responsive so it looks good on phones too. And finally, I’d try to get my GitHub setup sorted earlier to avoid those annoying push errors — maybe even try SSH keys instead of HTTPS.
+If I did this again, I’d probably spend more time planning my file and folder structure upfront to keep things tidy from the start. I’d also add some CSS earlier to make the design more polished and user-friendly, maybe even try a CSS framework like Bootstrap to speed things up. I want to learn how to make the page responsive so it looks good on phones too. And finally, I’d try to get my GitHub setup sorted earlier to avoid those annoying push errors — maybe even try SSH keys instead of HTTPS.Plan CSS grid layout more carefully and separate CSS into modules.
 
 ---
 
 
 
 
-## What challenges did I have?
-Git remote issues and making layout fully responsive on mobile.
 
-## What would I do differently now?
-Plan CSS grid layout more carefully and separate CSS into modules.
+
 
 
