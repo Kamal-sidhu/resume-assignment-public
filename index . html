@@ -4,143 +4,111 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>kamaldeep kaur - Resume</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      max-width: 700px;
-      margin: 20px auto;
-      padding: 10px;
-      line-height: 1.5;
-      color: #222;
-    }
-    img.profile-pic {
-      width: 150px;
-      height: 150px;
-      object-fit: cover;
-      border-radius: 5px;
-      margin-bottom: 15px;
-    }
-    h1 {
-      margin-bottom: 0;
-    }
-    h2 {
-      margin-top: 30px;
-      border-bottom: 2px solid #ccc;
-      padding-bottom: 5px;
-    }
-    ul {
-      list-style-type: disc;
-      margin-left: 20px;
-    }
-    ul ul {
-      list-style-type: circle;
-      margin-left: 20px;
-    }
-    a {
-      color: blue;
-      text-decoration: underline;
-    }
-  </style>
+  
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+  
+  <!-- External CSS -->
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-<img src="images/profile.jpg" alt="kamaldeep kaur" width="150" height="150">
 
-  <h1>kamaldeep kaur</h1>
-  <p>Front end Developer</p>
+  <header>
+    <img src="images/profile.jpg" alt="kamaldeep kaur" class="profile-pic">
+    <h1>kamaldeep kaur</h1>
+    <p>Front end Developer</p>
+  </header>
 
-  <h2>Contact Information</h2>
-  <ul>
-    <li><strong>Phone:</strong> (431) 374-786</li>
-    <li><strong>Address:</strong> 38 Leamen crescent , at R2P 0N8</li>
-    <li><strong>Email:</strong> kamalsidhu2727@gamil.com</li>
-    <li><strong>GitHub:</strong> <a href="https://github.com/Kamal-sidhu">github.com/Kamal-sidhu</a></li>
-    <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/kamaldeep-kaur-aba8b5382/">linkedin.com/in/kamaldeep</a></li>
-  </ul>
+  <main>
+    <section id="contact">
+      <h2>Contact Information</h2>
+      <ul>
+        <li><strong>Phone:</strong> (431) 374-786</li>
+        <li><strong>Address:</strong> 38 Leamen crescent, R2P 0N8</li>
+        <li><strong>Email:</strong> kamalsidhu2727@gamil.com</li>
+        <li><strong>GitHub:</strong> <a href="https://github.com/Kamal-sidhu">github.com/Kamal-sidhu</a></li>
+        <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/kamaldeep-kaur-aba8b5382/">linkedin.com/in/kamaldeep</a></li>
+      </ul>
+    </section>
 
-  <h2>About Me</h2>
-  <p>Hello! I’m Kamaldeep Kaur, a dedicated front-end developer passionate about creating clean, responsive, and user-friendly websites. I enjoy learning new technologies and continuously improving my skills to deliver the best user experience possible.</p>
+    <section id="about">
+      <h2>About Me</h2>
+      <p>Hello! I’m Kamaldeep Kaur, a dedicated front-end developer passionate about creating clean, responsive, and user-friendly websites. I enjoy learning new technologies and continuously improving my skills to deliver the best user experience possible.</p>
+    </section>
 
-  <section id="skills">
-  <h3>Skills</h3>
-  <ul>
-    <li>HTML5 & Semantic Markup</li>
-    <li>CSS3 & Responsive Design</li>
-    <li>JavaScript & DOM Manipulation</li>
-    <li>Git & GitHub Version Control</li>
-    <li>Accessibility Best Practices</li>
-    <li>Cross-Browser Compatibility</li>
-  </ul>
-</section>
+    <section id="skills">
+      <h2>Skills</h2>
+      <ul>
+        <li>HTML5 & Semantic Markup</li>
+        <li>CSS3 & Responsive Design</li>
+        <li>JavaScript & DOM Manipulation</li>
+        <li>Git & GitHub Version Control</li>
+        <li>Accessibility Best Practices</li>
+        <li>Cross-Browser Compatibility</li>
+      </ul>
+    </section>
 
+    <section id="experience">
+      <h2>Experience</h2>
 
-<section id="experience">
-  <h3>Experience</h3>
+      <article>
+        <h3>Junior Web Developer (Intern)</h3>
+        <p>CodeWave Technologies, Winnipeg, MB — May 2025 – August 2025</p>
+        <p>Worked collaboratively with the development team to design and implement responsive UI components using HTML5, CSS3, and JavaScript. Participated in daily standups and contributed to GitHub repositories following agile workflows.</p>
+      </article>
 
-  <article>
-    <h4>Junior Web Developer (Intern)</h4>
-    <p>CodeWave Technologies, Winnipeg, MB — May 2025 – August 2025</p>
-    <p>Worked collaboratively with the development team to design and implement responsive UI components using HTML5, CSS3, and JavaScript. Participated in daily standups and contributed to GitHub repositories following agile workflows.</p>
-  </article>
+      <article>
+        <h3>Freelance Front-End Developer</h3>
+        <p>Remote — January 2024 – April 2025</p>
+        <p>Designed and built responsive websites for small businesses using semantic HTML and accessible layouts. Ensured cross-browser compatibility and implemented version control with Git and GitHub.</p>
+      </article>
+    </section>
 
-  <article>
-    <h4>Freelance Front-End Developer</h4>
-    <p>Remote — January 2024 – April 2025</p>
-    <p>Designed and built responsive websites for small businesses using semantic HTML and accessible layouts. Ensured cross-browser compatibility and implemented version control with Git and GitHub.</p>
-  </article>
-</section>
+    <section id="education">
+      <h2>Education</h2>
 
-<section id="education">
-  <h3>Education</h3>
+      <article>
+        <h3>Diploma in Application Development & Delivery</h3>
+        <p>Red River College Polytechnic, Winnipeg, MB — 2025 – Present</p>
+      </article>
 
-  <article>
-    <h4>Diploma in Application Development & Delivery</h4>
-    <p>Red River College Polytechnic, Winnipeg, MB — 2025 – Present</p>
-  </article>
+      <article>
+        <h3>Bachelor of Computer Applications (B.C.A)</h3>
+        <p>Guru Gobind Singh College, Gidderbaha, India — 2017 – 2020</p>
+      </article>
+    </section>
 
-  <article>
-    <h4>Bachelor of Computer Applications (B.C.A)</h4>
-    <p>Guru Gobind Singh College, Gidderbaha, India — 2017 – 2020</p>
-  </article>
-</section>
+    <section id="projects">
+      <h2>Projects</h2>
+      <ul>
+        <li>
+          <strong>Portfolio Website</strong> – 
+          <a href="https://kamal-portfolio.netlify.app" target="_blank">Live Demo</a> |
+          <a href="https://github.com/Kamal-sidhu/portfolio-site" target="_blank">GitHub</a><br>
+          A personal website to showcase my resume, skills, and contact information. Built using semantic HTML.
+        </li>
 
+        <li>
+          <strong>To-Do App</strong> –
+          <a href="https://kamal-todo-app.netlify.app" target="_blank">Live Demo</a> |
+          <a href="https://github.com/Kamal-sidhu/todo-app" target="_blank">GitHub</a><br>
+          A simple, interactive to-do list web app that uses local storage to save tasks. Developed in plain JavaScript.
+        </li>
 
-<section id="projects">
-  <h3>Projects</h3>
-  <ul>
-    <li>
-      <strong>Portfolio Website</strong> – 
-      <a href="https://kamal-portfolio.netlify.app" target="_blank">Live Demo</a> |
-      <a href="https://github.com/Kamal-sidhu/portfolio-site" target="_blank">GitHub</a><br>
-      A personal website to showcase my resume, skills, and contact information. Built using semantic HTML.
-    </li>
+        <li>
+          <strong>Weather App</strong> –
+          <a href="https://kamal-weatherapp.vercel.app" target="_blank">Live Demo</a> |
+          <a href="https://github.com/Kamal-sidhu/weather-app" target="_blank">GitHub</a><br>
+          A responsive weather forecast app using OpenWeatherMap API. Fetches real-time weather by city.
+        </li>
+      </ul>
+    </section>
 
-     <li>
-      <strong>To-Do App</strong> –
-      <a href="https://kamal-todo-app.netlify.app" target="_blank">Live Demo</a> |
-      <a href="https://github.com/Kamal-sidhu/todo-app" target="_blank">GitHub</a><br>
-      A simple, interactive to-do list web app that uses local storage to save tasks. Developed in plain JavaScript.
-    </li>
-
-      <li>
-      <strong>Weather App</strong> –
-      <a href="https://kamal-weatherapp.vercel.app" target="_blank">Live Demo</a> |
-      <a href="https://github.com/Kamal-sidhu/weather-app" target="_blank">GitHub</a><br>
-      A responsive weather forecast app using OpenWeatherMap API. Fetches real-time weather by city.
-    </li>
-  </ul>
-</section>
-
-
- <section id="thankyou" style="margin-top: 40px; text-align: center;">
-  <h2>Thank You!</h2>
-  <p>Thank you for taking the time to review my resume and projects. I appreciate your consideration and look forward to connecting with you.</p>
-</section>
-
+    <section id="thankyou" style="margin-top: 40px; text-align: center;">
+      <h2>Thank You!</h2>
+      <p>Thank you for taking the time to review my resume and projects. I appreciate your consideration and look forward to connecting with you.</p>
+    </section>
+  </main>
 
 </body>
 </html>
-
-
-
-
-
