@@ -1,1 +1,8 @@
-<link rel="stylesheet" href="styles.css">
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: 'Roboto Slab', serif;
+}
