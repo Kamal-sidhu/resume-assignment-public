@@ -6,3 +6,9 @@ body {
 h1, h2, h3 {
     font-family: 'Roboto Slab', serif;
 }
+
+.section-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1.5rem;
+}
